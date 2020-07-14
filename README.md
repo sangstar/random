@@ -1,5 +1,5 @@
 # random
-Ongoing project coding up randomness tests anyone can use on their data, typically assessing randomness quality using a test statistic Z. 
+Ongoing project coding up randomness tests anyone can use on their data, typically assessing randomness quality using a test statistic Z. Some tests are already in certain libraries (chi-square is in scipy's library).
 
 
 # Current tests
