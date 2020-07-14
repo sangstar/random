@@ -1,13 +1,10 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[151]:
-
+# Author: Sanger Steel
 
 import numpy as np
 
-
-# In[152]:
 
 
 def find_total_column(table):
@@ -21,7 +18,6 @@ def find_total_column(table):
     
 
 
-# In[153]:
 
 
 def find_expected(table):
@@ -39,7 +35,6 @@ def find_expected(table):
         
 
 
-# In[154]:
 
 
 def Z_table(table,exp_table,n,m):
@@ -50,7 +45,6 @@ def Z_table(table,exp_table,n,m):
     return Z_table
 
 
-# In[155]:
 
 
 def chisquare(table):
@@ -66,19 +60,16 @@ def chisquare(table):
     
 
 
-# In[156]:
 
 
 mat=[[90,30,30],[60,50,40],[104,51,45],[95,20,35]]
 
 
-# In[157]:
 
 
 chisquare(mat)
 
 
-# In[ ]:
 
 
 
