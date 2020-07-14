@@ -1,13 +1,11 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[4]:
-
+# Author: Sanger Steel
 
 import numpy as np
 
 
-# In[29]:
 
 
 def runs_test(arr):
@@ -28,13 +26,11 @@ def runs_test(arr):
         return Z
 
 
-# In[30]:
 
 
 arr = [1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,1,0,1,1,0,1,0,0,0]
 
 
-# In[31]:
 
 
 runs_test(arr)
