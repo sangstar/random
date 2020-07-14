@@ -9,5 +9,5 @@ Runs
 
 
 Chi-square 
-1. Takes data as a contingency table
-2. Assumes table does not include totals
+1. Takes data as a contingency table.
+2. Assumes table does not include totals.
