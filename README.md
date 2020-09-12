@@ -1,3 +1,8 @@
+# Update:
+
+Going to revamp my repository here. Currently working on coding my own Perlin noise. 
+
+
 # random
 Ongoing project coding up randomness tests anyone can use on their data, typically assessing randomness quality using a test statistic Z. Some tests are already in certain libraries (chi-square is in scipy's library). Assumes user has a decided upon significance level. 
 
